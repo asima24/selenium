@@ -1,0 +1,109 @@
+https://www.jqueryscript.net/demo/Drop-Down-Combo-Tree/
+https://www.lambdatest.com/selenium-playground/select-dropdown-demo
+https://www.orangehrm.com/orangehrm-30-day-trial#free-trial-info-menu
+https://demo.1crmcloud.com/login.php
+https://mdbootstrap.com/docs/standard/components/dropdowns/
+bootstrap dom down example
+----xpath-----------------
+https://selectorshub.com/xpath-practice-page/
+https://classic.crmpro.com/
+driver.findElement(By.name("username")).sendKeys("newautomation");
+  driver.findElement(By.name("password")).sendKeys("Selenium@12345");
+  driver.findElement(By.xpath("//input[@value='Login']")).click();
+  https://css-tricks.com/almanac/selectors/n/nth-child/
+  
+  -----------Relative locator---------
+  https://www.aqi.in/dashboard/canada
+  -------frame----------------
+  
+  https://www.formsite.com/templates/registration-form-templates/vehicle-registration-form/
+  https://formsite.com/templates/registration-form-templates/vehicle-registration-form/
+  ------------------Action class-----------
+  
+  
+  
+  https://swisnl.github.io/jQuery-contextMenu/demo.html
+ https://naveenautomationlabs.com/opencart/index.php?route=account/register
+  
+  <-----Js Scroll By---->
+https://login.yahoo.com/
+https://www.album.alexflueras.ro/#container
+
+
+Websites for Practicing Automation Testing 
+------------------------------------------
+Beginners
+----------
+https://itera-qa.azurewebsites.net/ho...
+https://the-internet.herokuapp.com/
+https://www.globalsqa.com/demo-site/
+https://testautomationpractice.blogsp...
+https://www.saucedemo.com/
+
+Intermediate & Advanced
+---------------------------------
+https://opensource-demo.orangehrmlive...
+http://demo.nopcommerce.com/
+http://admin-demo.nopcommerce.com/
+https://demo.opencart.com/
+https://demo.opencart.com/admin/
+http://automationpractice.com/
+http://live.demoguru99.com/
+
+
+Demo Sites for Practicing API Testing
+-------------------------------------------
+https://reqres.in/
+http://dummy.restapiexample.com/
+https://jsonplaceholder.typicode.com/
+https://gorest.co.in/
+https://restful-booker.herokuapp.com/
+https://httpbin.org/#/
+https://petstore.swagger.io/
+https://fakerestapi.azurewebsites.net...
+https://documenter.getpostman.com/vie...
+https://developers.google.com/maps/do...
+
+Top 10 Freelancing Websites for Software Testing
+--------------------------------------------------
+1) Freelancer
+https://www.freelancer.com/
+
+2) Value Coders
+https://www.valuecoders.com/
+
+3) Toptal
+https://www.toptal.com/
+
+4) Upwork
+https://www.upwork.com/
+
+5) Guru.com
+https://www.guru.com/
+
+6) Truelancer
+https://www.truelancer.com/
+
+7) Peopleperhour
+https://www.peopleperhour.com/
+
+8)Work n Hire
+https://worknhire.com/
+
+9) we are testers
+https://we-are-testers.com/
+
+10) twago 
+https://www.twago.com/
+
+-----------------------------------------
+
+https://jqueryui.com/resources/demos/droppable/default.html
+
+https://swisnl.github.io/jQuery-contextMenu/demo.html
+
+http://mrbool.com/search/?txtsearch=how-to-create-menu-with-submenu-using-css-html
+
+https://www.bigbasket.com/
+
+https://letcode.in/playwright
